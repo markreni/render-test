@@ -1,0 +1,8 @@
+2023.06.22 14:51:23 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/markrenssi/Full Stack Web Development (CS-E4670)/FullStackWebDevelopment/part3/part3examples/.metals/lsp.trace.json or /Users/markrenssi/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.06.22 14:51:24 INFO  logging to file /Users/markrenssi/Full Stack Web Development (CS-E4670)/FullStackWebDevelopment/part3/part3examples/.metals/metals.log
+2023.06.22 14:51:24 INFO  Started: Metals version 0.11.1 in workspace '/Users/markrenssi/Full Stack Web Development (CS-E4670)/FullStackWebDevelopment/part3/part3examples' for client Visual Studio Code 1.79.2.
+2023.06.22 14:51:24 INFO  Parse release: 11.0.8
+2023.06.22 14:51:26 INFO  time: initialize in 2.51s
+2023.06.22 14:51:27 WARN  Build server is not auto-connectable.
+2023.06.22 14:51:27 WARN  no build tool detected in workspace '/Users/markrenssi/Full Stack Web Development (CS-E4670)/FullStackWebDevelopment/part3/part3examples'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.06.22 22:08:06 INFO  shutting down Metals
